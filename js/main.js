@@ -13,10 +13,10 @@
 $(document).ready(function (){
 
   function initialize() {
-    var mapCanvas = document.getElementById('card');
+    var mapCanvas = document.getElementById('map');
     var mapOptions = {
-      center: new google.maps.LatLng(44.5403, -78.5463),
-      zoom: 8,
+      center: new google.maps.LatLng(40.946453, -73.795309),
+      zoom: 17,
       mapTypeId: google.maps.MapTypeId.ROADMAP
     }
     var map = new google.maps.Map(mapCanvas, mapOptions)
