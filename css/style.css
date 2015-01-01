@@ -47,6 +47,19 @@ html, body {
   background-size: cover;
 }
 
+.par-menu {
+  background: url(../images/coffee.png) no-repeat center center fixed; 
+  color: white;
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 #about {
 }
 
