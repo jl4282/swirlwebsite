@@ -77,6 +77,11 @@ html, body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+#panels {
+  margin-left: 20px;
+}
+
 #information .panel {
   opacity: 0.85;
 }
