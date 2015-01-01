@@ -34,7 +34,7 @@ html, body {
 }
 
 /* additional sections */
-#par {
+.par {
   background: url(../images/home.jpg) no-repeat center center fixed; 
   display: table;
   height: 100%;
